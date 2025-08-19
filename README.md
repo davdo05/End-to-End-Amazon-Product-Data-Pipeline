@@ -79,3 +79,6 @@ This dashboard let me interactively explore trends across **hundreds of thousand
 
 Link to dashboard: 
 https://1drv.ms/x/c/d78d5fc6af87fc76/IQSoNrWPAj6sR6JG56F4nOBGAfupBEaYvYWDdPsarJk8Isc?em=2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True
+
+Link to dataset: 
+https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset?resource=download
