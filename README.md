@@ -1,6 +1,6 @@
 # How it Works
 
-At first glance this might look like simple cleaning, but it’s actually a full **ETL and analytics pipeline** that scaled from **1.1 million raw Amazon product rows** down to a structured dataset of just **268,000 unique, analysis-ready entries**.
+A full **ETL and analytics pipeline** that scaled from **1.1 million raw Amazon product rows** down to a structured dataset of just **268,000 unique, analysis-ready entries**.
 
 ---
 
